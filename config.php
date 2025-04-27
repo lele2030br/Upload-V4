@@ -1,9 +1,9 @@
 <?php
 // Configurações do banco de dados
 define('DB_HOST', 'localhost');
-define('DB_USER', 'jgzoxaxy_1');
-define('DB_PASS', 'lemile87');
-define('DB_NAME', 'jgzoxaxy_1');
+define('DB_USER', 'nome');
+define('DB_PASS', 'sua senha');
+define('DB_NAME', 'nome');
 
 // Configurações do sistema
 define('UPLOAD_DIR', 'uploads/');
